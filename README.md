@@ -67,6 +67,7 @@ Solution of image processing course labs
 </ul>
 </li>
 </li>
+<hr width="85%" style="background-color: #4b4c60"></hr>
 <li>
 
 **Lab 4** (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%204">Link</a>)
@@ -77,6 +78,7 @@ Solution of image processing course labs
 <li>Understand and implement Histogram Equalization.</li>
 </ul>
 </li>
+<hr width="85%" style="background-color: #4b4c60"></hr>
 <li>
 
 **Lab 5** (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%205">Link</a>)
@@ -88,6 +90,7 @@ techniques.</li>
 techniques.</li>
 </ul>
 </li>
+<hr width="85%" style="background-color: #4b4c60"></hr>
 <li>
 
 **Lab 6**  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%206">Link</a>)
@@ -97,6 +100,7 @@ techniques.</li>
 <li>Skeletonization with Skimage's "skeletonize(image)"  and Skimage's "thin(image, max_iter)"</li>
 </ul>
 </li>
+<hr width="85%" style="background-color: #4b4c60"></hr>
 <li>
 
 **Lab 7**  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%207">Link</a>)
@@ -105,6 +109,7 @@ techniques.</li>
 <li>Learn simple threshold technique(s).</li>
 </ul>
 </li>
+<hr width="85%" style="background-color: #4b4c60"></hr>
 <li>
 
 **Lab 8**  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%208">Link</a>)
@@ -112,6 +117,7 @@ techniques.</li>
 <li> Learn adaptive thresholding technique(s).</li>
 </ul>
 </li>
+<hr width="85%" style="background-color: #4b4c60"></hr>
 <li>
 
 **Lab 9** (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%209">Link</a>)
