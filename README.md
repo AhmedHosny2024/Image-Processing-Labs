@@ -33,7 +33,8 @@ Solution of image processing course labs
 <li> Content</li>
 <ul>
 <li>
-1️⃣ Lab 1 (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%201">Link</a>)
+
+**Lab 1** (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%201">Link</a>)
 <ul>
 <li>Basics of Python, Jupyter and Skimage</li>
 <li>Read & print image</li>
@@ -46,7 +47,8 @@ Solution of image processing course labs
 </ul>
 </li>
 <li>
-2️⃣ Lab 2  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%202">Link</a>)
+
+**Lab 2**  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%202">Link</a>)
 <ul>
 <li>Learn the concept of Convolution in the space domain.</li>
 <li>Learn the concept of Inverse Fourier Transform</li>
@@ -54,7 +56,8 @@ Solution of image processing course labs
 </ul>
 </li>
 <li>
-Lab 3 (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%203">Link</a>)
+
+**Lab 3** (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%203">Link</a>)
 <ul>
 <li>Smoothing</li>
 <li>Median filter algorithm and compare it with skimage median filter</li>
@@ -63,7 +66,8 @@ Lab 3 (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/mai
 </li>
 </li>
 <li>
-Lab 4 (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%204">Link</a>)
+
+**Lab 4** (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%204">Link</a>)
 <ul>
 <li>Know the effect of Negative transformation.</li>
 <li>Know the effect of contrast enhancement.</li>
@@ -72,7 +76,8 @@ Lab 4 (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/mai
 </ul>
 </li>
 <li>
-Lab 5 (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%205">Link</a>)
+
+**Lab 5** (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%205">Link</a>)
 <ul>
 <li>Apply and notice the differences between edge detection techniques.</li>
 <li>Understand the effect of different parameters used in edge detection
@@ -82,7 +87,8 @@ techniques.</li>
 </ul>
 </li>
 <li>
-Lab 6  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%206">Link</a>)
+
+**Lab 6**  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%206">Link</a>)
 <ul>
 <li> Erosion / Dilation</li>
 <li> Credit Card Number Extraction</li>
@@ -90,20 +96,23 @@ Lab 6  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/ma
 </ul>
 </li>
 <li>
-Lab 7  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%207">Link</a>)
+
+**Lab 7**  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%207">Link</a>)
 <ul>
 <li> Learn how to deal with pixel level values with minimum usage of already-implemented functions.</li>
 <li>Learn simple threshold technique(s).</li>
 </ul>
 </li>
 <li>
-Lab 8  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%208">Link</a>)
+
+**Lab 8**  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%208">Link</a>)
 <ul>
 <li> Learn adaptive thresholding technique(s).</li>
 </ul>
 </li>
 <li>
-Lab 9  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%209">Link</a>)
+
+**Lab 9** (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%209">Link</a>)
 <ul>
 <li> A segment for clothes with a jeans texture</li>
 <li>A segment for clothes with a cotton texture</li>
