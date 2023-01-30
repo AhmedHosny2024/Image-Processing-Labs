@@ -34,7 +34,7 @@ Solution of image processing course labs
 <ul>
 <li>
 
-**Lab 1** (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%201">Link</a>)
+💻 **Lab 1** (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%201">Link</a>)
 <ul>
 <li>Basics of Python, Jupyter and Skimage</li>
 <li>Read & print image</li>
@@ -49,7 +49,7 @@ Solution of image processing course labs
 <hr width="85%" style="background-color: #4b4c60"></hr>
 <li>
 
-**Lab 2**  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%202">Link</a>)
+💻 **Lab 2**  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%202">Link</a>)
 <ul>
 <li>Learn the concept of Convolution in the space domain.</li>
 <li>Learn the concept of Inverse Fourier Transform</li>
@@ -59,7 +59,7 @@ Solution of image processing course labs
 <hr width="85%" style="background-color: #4b4c60"></hr>
 <li>
 
-**Lab 3** (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%203">Link</a>)
+💻 **Lab 3** (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%203">Link</a>)
 <ul>
 <li>Smoothing</li>
 <li>Median filter algorithm and compare it with skimage median filter</li>
