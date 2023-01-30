@@ -33,9 +33,9 @@ Solution of image processing course labs
 <li> Content</li>
 <ul>
 <li>
-Lab 1 (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%201">Link</a>)
+1️⃣ Lab 1 (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%201">Link</a>)
 <ul>
-<li>Basics of Python, Jupyter, Skimage</li>
+<li>Basics of Python, Jupyter and Skimage</li>
 <li>Read & print image</li>
 <li>Show half of image</li>
 <li>Convert RGB to HSV</li>
@@ -46,7 +46,7 @@ Lab 1 (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/mai
 </ul>
 </li>
 <li>
-Lab 2  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%202">Link</a>)
+2️⃣ Lab 2  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%202">Link</a>)
 <ul>
 <li>Learn the concept of Convolution in the space domain.</li>
 <li>Learn the concept of Inverse Fourier Transform</li>
@@ -130,4 +130,4 @@ Lab 9  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/ma
 
 ## 🔒 License <a id ="license"></a>
 
-> **Note**: This software is licensed under MIT License, See [License](https://github.com/AhmedHosny2024/Image-Processing-Labs/LICENSE) for more information ©AhmedHosny2024.
+> **Note**: This software is licensed under MIT License, See [License](https://github.com/AhmedHosny2024/Image-Processing-Labs/blob/main/LICENSE) for more information ©AhmedHosny2024.
