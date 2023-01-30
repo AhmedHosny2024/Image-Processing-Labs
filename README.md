@@ -46,6 +46,7 @@ Solution of image processing course labs
 <li>Draw a grey-scale image that has uniform histogram</li>
 </ul>
 </li>
+<hr width="85%" style="background-color: #4b4c60"></hr>
 <li>
 
 **Lab 2**  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%202">Link</a>)
@@ -55,6 +56,7 @@ Solution of image processing course labs
 <li>Learn the concept of Multiplication in frequency domain</li>
 </ul>
 </li>
+<hr width="85%" style="background-color: #4b4c60"></hr>
 <li>
 
 **Lab 3** (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%203">Link</a>)
