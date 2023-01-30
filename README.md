@@ -49,7 +49,7 @@ Solution of image processing course labs
 <hr width="85%" style="background-color: #4b4c60"></hr>
 <li>
 
-💻 **Lab 2**  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%202">Link</a>)
+🚨 **Lab 2**  (<a href="https://github.com/AhmedHosny2024/Image-Processing-Labs/tree/main/Lab%202">Link</a>)
 <ul>
 <li>Learn the concept of Convolution in the space domain.</li>
 <li>Learn the concept of Inverse Fourier Transform</li>
