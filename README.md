@@ -1,7 +1,6 @@
 <div align= >
-   
 
-# <img align=center width=75px height=75px src="https://media3.giphy.com/media/321AaGDATXT8dq4MDC/giphy.gif?cid=ecf05e47n0l7s1rnvepwnncprqabq9gvk4tf2tm0p59vgouc&rid=giphy.gif&ct=s"> Image Processing Labs
+# <img align=center width=70px src="https://media3.giphy.com/media/321AaGDATXT8dq4MDC/giphy.gif?cid=ecf05e47n0l7s1rnvepwnncprqabq9gvk4tf2tm0p59vgouc&rid=giphy.gif&ct=s"> Image Processing Labs
 
 
 </div>
