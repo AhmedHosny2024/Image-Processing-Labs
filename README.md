@@ -144,6 +144,7 @@ techniques.</li>
   </tr>
 </table>
 
+
 ## 🔒 License <a id ="license"></a>
 
 > **Note**: This software is licensed under MIT License, See [License](https://github.com/AhmedHosny2024/Image-Processing-Labs/blob/main/LICENSE) for more information ©AhmedHosny2024.
